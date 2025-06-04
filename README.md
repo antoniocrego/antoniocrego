@@ -1,6 +1,6 @@
 ## Hello, I'm António Rego 👋
 
-#Under construction...
+# Under construction...
 
 <!--
 **antoniocrego/antoniocrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
