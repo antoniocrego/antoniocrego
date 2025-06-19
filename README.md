@@ -34,37 +34,37 @@ Feel free to reach out! <br>
 | | [Computer Laboratory](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501680) | Low-level functionality of computer systems and I/O drivers such as the serial port, graphics card, keyboard, and mouse. | | | | 19 |
 | | | | [LCOM Knight](https://github.com/antoniocrego/lcom-t01-g3) | Hollow Knight inspired game developed for the Minix system along with the relevant drivers. | C |
 | 2023/24 |        |          |                                            |                  |                                                      |                      |
-| | [Functional and Logic Programming](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520329) | Introduction to the functional and logic programming paradigms and abstract reasoning through Haskell and Prolog. | | | | | 18 |
+| | [Functional and Logic Programming](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520329) | Introduction to the functional and logic programming paradigms and abstract reasoning through Haskell and Prolog. | | | | 18 |
 | | | | [Differo](https://github.com/antoniocrego/projeto1pfl) | Implementation of the Differo board game in Prolog. | Prolog |
 | | | | [Parser, Assembler, and Compiler](https://github.com/antoniocrego/PFL2-2324) | Parser, assembler, and compiler for a fictional imperative programming language. | Haskell |
-| | [Database and Web Applications Laboratory](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520328) | Advancements into web development and database technologies. | | | | | 17 |
+| | [Database and Web Applications Laboratory](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520328) | Advancements into web development and database technologies. | | | | 17 |
 | | | | [Infohubly](https://github.com/antoniocrego/lbaw2327) | News-sharing social media website. | Laravel, PostgreSQL, TailwindCSS, and JavaScript |
-| | [Computer Networks](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520330) | Understanding computer networks, their functionality, and performance. | | | | | 15 |
+| | [Computer Networks](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520330) | Understanding computer networks, their functionality, and performance. | | | | 15 |
 | | | | [Project 1](https://github.com/antoniocrego/RCOM1-2324) | File transfer between two machines via serial port. | C |
 | | | | [Project 2](https://github.com/antoniocrego/RCOM2-2324) | FTP download application and manual set up of a computer network with two bridges, two routers and NAT. | C |
-| | [Parallel and Distributed Computing](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520333) | Deep dive into parallelizing code and guaranteeing stability in distributed systems. | | | | | 16 |
+| | [Parallel and Distributed Computing](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520333) | Deep dive into parallelizing code and guaranteeing stability in distributed systems. | | | | 16 |
 | | | | [Parallel Computing Assignment](https://github.com/antoniocrego/cpd-t06-g17/tree/main/assign1) | Implementation and performance evaluation of sequential and different parallelization methods for multiplying two matrices. | C++, Java, OpenMP |
 | | | | [Pokémon](https://github.com/antoniocrego/cpd-t06-g17/tree/main/assign2) | Client and server for a distributed and parallel Pokémon battle game. | Java |
-| | [Compilers](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520331) | Deep dive into compilers, their implementation, and optimizations. | | | | | 19 |
+| | [Compilers](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520331) | Deep dive into compilers, their implementation, and optimizations. | | | | 19 |
 | | | | [Java-- Compiler](https://github.com/antoniocrego/comp2024-8e) | Implementation of a compiler for a pseudo-language Java--. | Java, Ollir, Jasmin  |
-| | [Computer Graphics](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520332) | Exploring how computers generate 2D and 3D graphics through WebCGF, a variation of WebGL. | | | | | 16 |
+| | [Computer Graphics](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520332) | Exploring how computers generate 2D and 3D graphics through WebCGF, a variation of WebGL. | | | | 16 |
 | | | | [Computer Graphics Assignment](https://github.com/antoniocrego/cg-t06-g07) | WebGL exercises and a controllable scene depicting a bee in a field of flowers. | WebCGF/WebGL, JavaScript  |
-| | [Artificial Intelligence](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520334) | Understanding AI and all its types applied towards problem solving and decision making. | | | | | 17 |
+| | [Artificial Intelligence](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520334) | Understanding AI and all its types applied towards problem solving and decision making. | | | | 17 |
 | | | | [Amado](https://github.com/antoniocrego/IA1_2324) | Implementation of the Amado game with AI algorithms for solving levels. | Python |
 | | | | [League of Legends Match Outcome Predictor](https://github.com/antoniocrego/IA2_2324) | League of Legends match outcome prediction algorithms implemented with different AI algorithms. | Python, Scikit-learn |
 | 2024/2025 |        |          |                                            |                  |                                                      |                      |
-| | [Machine Learning](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=540676) | Expanding knowledge into data mining, big data, and machine learning applied to decision support. | | | | | 15 |
+| | [Machine Learning](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=540676) | Expanding knowledge into data mining, big data, and machine learning applied to decision support. | | | | 15 |
 | | | | [WNBA Playoff Predictor](https://github.com/antoniocrego/ML_2425) | Implementation of prediction model for the qualifiers to the Women's NBA Playoff. | Python, Scikit-learn |
-| | [Large Scale Software Development](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=540677) | Introduction to working in large scale companies for a product. | | | | | 18 |
+| | [Large Scale Software Development](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=540677) | Introduction to working in large scale companies for a product. | | | | 18 |
 | | | | WardenAI (Repository unavailable) | Web App and VS Code extension AI tool which scans code for security issues. | Python, Next.js, FastAPI |
-| | [Information Processing and Retrieval](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=540678) | Techniques for gathering data and treating it for processing and retrieval. | | | | | 16 |
+| | [Information Processing and Retrieval](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=540678) | Techniques for gathering data and treating it for processing and retrieval. | | | | 16 |
 | | | | [Stack Overflow Search Engine](https://github.com/antoniocrego/pri-g31) | Search Engine for Stack Overflow questions and answers. | Python, Next.js, Solr |
-| | [Interactive Graphics Systems](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=540680) | Deepening knowledge of computer graphics, specifically 3D. | | | | | 19 |
+| | [Interactive Graphics Systems](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=540680) | Deepening knowledge of computer graphics, specifically 3D. | | | | 19 |
 | | | | [Experiments with ThreeJS](https://github.com/antoniocrego/sgi-t02-g07) | Experimenting and exploring ThreeJS through exercises and building scenes. | ThreeJS |
 | | | | [Balloon Game](https://github.com/antoniocrego/sgi-t02-g04) | Balloon racing game implemented entirely in ThreeJS. | ThreeJS |
-| | [Large Scale Distributed Systems](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=540679) | Deeper dive into distributed systems and maintaining consitency throughout systems. | | | | | 14 |
+| | [Large Scale Distributed Systems](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=540679) | Deeper dive into distributed systems and maintaining consitency throughout systems. | | | | 14 |
 | | | | [Local-First Distributed Shopping List](https://github.com/antoniocrego/sdle-t5-g14) | Local-first distributed shopping list application using CRDTs. | C++, ZMQ, Dynamo |
-| | [Design and Development of Digital Games](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=540686) | Game development and design aided by game engines. | | | | | TBA |
+| | [Design and Development of Digital Games](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=540686) | Game development and design aided by game engines. | | | | TBA |
 | | | | [GTA - Grand Test Acquisition](https://github.com/antoniocrego/DDJD-2425-GTA) | Short platformer game based on Spelunky. | C#, Unity |
 | | | | [Fado of Blood](https://github.com/antoniocrego/fado-of-blood) | Short Souls-like game based on discovery era Portugal. | C#, Unity |
 | 2025/2026 |        |          |                                            |                  |                                                      |                      |
