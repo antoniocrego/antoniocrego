@@ -3,8 +3,10 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=antoniocrego.antoniocrego)
 
 ### About Me
-Hello! I'm a Software Engineer with a Bachelor's in Informatics Engineering and Computing, currently seeking my Master's in the same field.
+Hello! I'm a Software Engineer with a Bachelor's in Informatics Engineering and Computing, which I finished with a GPA of 16/20, currently seeking my Master's in the same field.
 I love developing projects which bridge personal interests, creativity, and logic - especially videogames which explore interactive storytelling and immersive worldbuilding!
+
+I am from São Miguel Island, Azores, Portugal - although I spend most of my time in Porto, Portugal, due to my studies!
 
 In my free time, you'll often find me playing games, running Dungeons & Dragons campaigns, crafting new fantasy worlds, or diving into fresh ideas and concepts.
 
