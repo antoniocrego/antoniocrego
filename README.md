@@ -8,9 +8,9 @@ I love developing projects which bridge personal interests, creativity, and logi
 
 In my free time, you'll often find me playing games, running Dungeons & Dragons campaigns, crafting new fantasy worlds, or diving into fresh ideas and concepts.
 
-Feel free to reach out!
-📫 Email: antoniocrego7@gmail.com
-📄 Contact me for my CV
+Feel free to reach out! <br>
+&emsp;📫 Email: antoniocrego7@gmail.com<br>
+&emsp;📄 Contact me for my CV
 
 ### College Projects
 
