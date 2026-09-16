@@ -64,10 +64,15 @@ Feel free to reach out! <br>
 | | | | [Balloon Game](https://github.com/antoniocrego/sgi-t02-g04) | Balloon racing game implemented entirely in ThreeJS. | ThreeJS |
 | | [Large Scale Distributed Systems](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=540679) | Deeper dive into distributed systems and maintaining consitency throughout systems. | | | | 14 |
 | | | | [Local-First Distributed Shopping List](https://github.com/antoniocrego/sdle-t5-g14) | Local-first distributed shopping list application using CRDTs. | C++, ZMQ, Dynamo |
-| | [Design and Development of Digital Games](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=540686) | Game development and design aided by game engines. | | | | TBA |
+| | [Design and Development of Digital Games](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=540686) | Game development and design aided by game engines. | | | | 17 |
 | | | | [GTA - Grand Test Acquisition](https://github.com/antoniocrego/DDJD-2425-GTA) | Short platformer game based on Spelunky. | C#, Unity |
 | | | | [Fado of Blood](https://github.com/antoniocrego/fado-of-blood) | Short Souls-like game based on discovery era Portugal. | C#, Unity |
 | 2025/2026 |        |          |                                            |                  |                                                      |                      |
+| | [Interaction Design Methodology]() | Analysis of user problems and development of solutions at a more practical level. | | | | 17,5 |
+| | [High-Performance Parallel Programming]() | Parallel programming concepts and libraries like CUDA, OpenMP, and MPI. | | | | 17,5 |
+| | [Quality Assurance and Testing]() | Concepts regarding testing software and meeting user requirements. | | | | 17,5 |
+| | [Gameplay Design]() | Studies about gameplay design with some development of board games to apply these concepts. | | | | 17,5 |
+
 
 ### Personal Projects
 Here are some of my personal projects, most of these are passion projects which focus on my interests heavily - ranging from DnD to neural networks.
@@ -75,6 +80,7 @@ Here are some of my personal projects, most of these are passion projects which 
 | Name | Description |
 |-----|------|
 | CNN from Scratch | I want to attempt to develop a CNN from scratch, as the concept seems simple enough to implement yourself. |
+| Passion Game Project | I've been learning Unreal Engine and Blender to develop my dream game and introduce myself to industry-standard technologies. |
 | [The Blundering Barrel Extended Universe](https://github.com/antoniocrego/bbeuwiki) | I host a Wiki with information regarding the world in which my DnD campaigns take place! |
 
 <!--
