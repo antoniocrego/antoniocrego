@@ -67,7 +67,7 @@ Feel free to reach out! <br>
 | | [Design and Development of Digital Games](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=540686) | Game development and design aided by game engines. | | | | 17 |
 | | | | [GTA - Grand Test Acquisition](https://github.com/antoniocrego/DDJD-2425-GTA) | Short platformer game based on Spelunky. | C#, Unity |
 | | | | [Fado of Blood](https://github.com/antoniocrego/fado-of-blood) | Short Souls-like game based on discovery era Portugal. | C#, Unity |
-| 2025/2026 |        |          |                                            |                  |                                                      |                      |
+| 2025/2026 |    Erasmus+ Semester and Thesis    |          |                                            |                  |                                                      |                      |
 | | [Interaction Design Methodology](https://www.chalmers.se/en/education/your-studies/find-course-and-programme-syllabi/course-syllabus/TDA498/?acYear=2025%2F2026) | Analysis of user problems and development of solutions at a more practical level. | | | | 17,5 |
 | | [High-Performance Parallel Programming](https://www.chalmers.se/en/education/your-studies/find-course-and-programme-syllabi/course-syllabus/DAT400/?acYear=2025%2F2026) | Parallel programming concepts and libraries like CUDA, OpenMP, and MPI. | | | | 17,5 |
 | | [Quality Assurance and Testing](https://www.chalmers.se/en/education/your-studies/find-course-and-programme-syllabi/course-syllabus/DAT321/?acYear=2025%2F2026) | Concepts regarding testing software and meeting user requirements. | | | | 17,5 |
